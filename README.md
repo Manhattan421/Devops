@@ -14,5 +14,7 @@ El objetivo que tiene esta filosofía es mejorar la colaboración y aumentar la 
 
 [DevOps](https://es.wikipedia.org/wiki/DevOps)
 
+![DevOps](img/imagen_2024-10-31_005621468.png)
+
 
 
