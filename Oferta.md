@@ -13,3 +13,7 @@ También solicitan que tengamos conocimientos y experiencia en OpenShift/Kuberne
 Los requisitos mínimos que solicitan son tener un ciclo formativo de grado medio y al menos 4 años de experiencia en la materia.
 
 Por último destacar que el salario que se ofrece oscila entre los 45.000 a los 48.000 euros brutos al año.
+
+[Filosofía](Filosofía.md)
+
+[Herramientas](Herramientas.md)
