@@ -7,3 +7,8 @@ DevOps es un enfoque que integra el desarrollo de software y las operaciones de 
 3. Agilidad: Adopta prácticas que permiten adaptarse rápidamente a cambios.
 4. Monitoreo y Feedback: Se enfoca en la retroalimentación continua para mejorar el software.
 5. Cultura de Aprendizaje: Valora la experimentación y el aprendizaje constante.
+
+
+[Herramientas](Herramientas.md)
+
+[Oferta de empleo](Oferta.md)
