@@ -1,4 +1,4 @@
-**Herramientas mas utilizadas en DevOps**
+# Herramientas mas utilizadas en DevOps
 
 | *Ámbito* | *Herramientas* |
 | ------ | ----- |
@@ -8,7 +8,7 @@
 |	**Integración y entrega continua**| Travis CI o GitLab CI |
 | **Gestión de configuración** | Terraform, Ansible o SalStack |
 | **Monitorización** | Grafana, Prometheus o Splunk |
-| **Contenedores y orquestación ** | Docker, Kubernetes u OpenShift |
+| **Contenedores y orquestación** | Docker, Kubernetes u OpenShift |
 
 [Filosofía](Filosofía.md)
 
