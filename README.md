@@ -6,9 +6,9 @@ El objetivo que tiene esta filosofía es mejorar la colaboración y aumentar la 
 
 
 **Índice**
-1. [Filosofía]()
-2. [Herramientas]()
-3. [Oferta de empleo]()
+1. [Filosofía](Filosofía.md)
+2. [Herramientas](Herramientas.md)
+3. [Oferta de empleo](Oferta.md)
 
 **Referencia**
 
