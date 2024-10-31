@@ -1,6 +1,7 @@
-
+![Oferta_de_empleo](img/imagen_2024-10-31_005621468.png)
 
 **Descripción de la oferta**
+
 La empresa está ubicada en Madrid pero especifica que la oferta solo es para teletrabajar por lo tanto el lugar de trabajo puede ser nuestro propio hogar,
 siempre y cuando tengamos conexión a internet, con una contratación indefinida y a jornada completa. Además de esos requisitos minimos nos
 solicitan unos requisitos que les gustaría que cumpliesemos también aunque no son necesarios, los cuales son tener certificación de Red Hat Certified
