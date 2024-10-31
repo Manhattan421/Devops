@@ -1,4 +1,4 @@
-**Filosofía DevOps**
+# Filosofía DevOps
 
 DevOps es un enfoque que integra el desarrollo de software y las operaciones de IT para mejorar la colaboración y la eficiencia. Se centra en:
 
