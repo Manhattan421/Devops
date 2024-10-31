@@ -9,3 +9,7 @@
 | **Gestión de configuración** | Terraform, Ansible o SalStack |
 | **Monitorización** | Grafana, Prometheus o Splunk |
 | **Contenedores y orquestación ** | Docker, Kubernetes u OpenShift |
+
+[Filosofía](Filosofía.md)
+
+[Oferta de empleo](Oferta.md)
